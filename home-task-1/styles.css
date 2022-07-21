@@ -9,11 +9,10 @@ html {
 
 .header {
   display: flex;
-  line-height: 3em;
-  padding-left: 1em;
-  padding-right: 1em;
+  height: 3em;
+  padding: 0 1em;
   align-items: center;
-  background-color: red;
+  background-color: #eee;
 }
 button {
   padding: 0;
