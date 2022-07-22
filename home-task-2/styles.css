@@ -128,4 +128,8 @@ img {
   .news {
     width: 20vw;
   }
+  .container {
+    display: flex;
+    flex-direction: row;
+  }
 }
