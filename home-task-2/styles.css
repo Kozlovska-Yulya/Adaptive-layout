@@ -100,6 +100,9 @@ img {
   .news {
     width: 100vw;
   }
+  .main {
+    flex-direction: column;
+  }
 }
 
 @media screen and (min-width: 600px) {
@@ -116,6 +119,9 @@ img {
   .news {
     width: 100vw;
   }
+  .main {
+    flex-direction: column;
+  }
 }
 
 @media screen and (min-width: 1200px) {
@@ -127,5 +133,8 @@ img {
   }
   .news {
     width: 20vw;
+  }
+  .main {
+    flex-direction: row;
   }
 }
